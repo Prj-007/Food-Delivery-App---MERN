@@ -1,2 +1,2 @@
 # Food-Delivery-App---MERN
-Fully functinal food delivery app.
+Fully functional food delivery app.
